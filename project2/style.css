@@ -1,0 +1,100 @@
+*{
+    margin: 0px;
+}
+.container{
+    display: flex;
+    margin-right:100px;
+    
+}
+
+.heading{
+    display: inline;
+}
+.highlight{
+    
+    display: inline;
+    background-color: black;
+    color: white;
+}
+.firstBox{
+    width: 48%;
+
+    height: 40%;
+    margin-left: 90px;
+    box-shadow: 10px 10px 20px rgb(84, 82, 82);
+}
+.firstBox img{
+    width: 100%;
+    
+
+}
+.firstBox button{
+    padding: 12px;  
+    margin: 20px;
+    background-color: white;
+    border-color: rgb(150, 147, 147);
+}
+
+.secondBox{
+    width: 48%;
+
+    height: 40%;
+    margin-left: 90px;
+    box-shadow: 10px 10px 20px rgb(84, 82, 82);
+}
+.secondBox img{
+    width: 100%;
+    
+
+}
+.secondBox button{
+    padding: 12px;  
+    margin: 20px;
+    background-color: white;
+    border-color: rgb(150, 147, 147);
+}
+.small-one{
+
+    width: 300px;
+    box-shadow: 10px 10px 20px rgb(84, 82, 82);
+}
+.small-one img{
+    width: 100%;
+}
+
+.list{
+    
+    width: 300px;
+    length:200px;
+    box-shadow: 10px 10px 20px rgb(84, 82, 82);
+}
+.first{
+    width: 20%;
+}
+
+.small-two{
+    
+    width: 300px;
+    box-shadow: 10px 10px 20px rgb(84, 82, 82);
+
+}
+.small-two h4{
+    border-bottom:1px solid black ;
+    padding-bottom: 10px;
+}
+
+
+.footer{
+    background-color: #616161 !important;
+    color:  #fff !important;
+    padding-top: 32px !important;
+    padding-bottom: 32px !important;
+}
+
+#div:hover{
+    box-shadow: 10px 10px 10px black;
+}
+
+.w3-padding-16{
+    border-bottom: 1px solid black;
+}
