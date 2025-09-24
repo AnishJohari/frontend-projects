@@ -1,0 +1,74 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.head{
+    margin: 40px;
+   margin-left: 400px;
+}
+.head a{
+    margin-left: 100px;
+    text-decoration: none;
+    color: black;
+}
+.body{
+    display: inline-block;
+    background-color: #F5F2ED;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+img{
+    margin-left: 800px;
+    background-color: #F5F2ED;
+    
+}
+
+.eight{
+    display: inline-block;
+    border: 1px solid red;
+    padding: 60px;
+    border-radius: 15px;
+}
+.department{
+    margin-left:300px;
+}
+.eleven{
+    display: inline-block;
+    border: 1px solid red;
+    padding: 60px;
+    border-radius: 15px;
+}
+.twelve{
+    display: inline-block;
+    border: 1px solid red;
+    padding: 60px;
+    border-radius: 15px;
+}
+.department div{
+    margin-left: 60px;
+}
+.eight:hover{
+    box-shadow: 10px 10px 10px rgb(126, 125, 125);
+    
+}
+.eleven:hover{
+    box-shadow: 10px 10px 10px rgb(126, 125, 125);
+    
+}
+.twelve:hover{
+    box-shadow: 10px 10px 10px rgb(126, 125, 125);
+    
+}
+.FOOTER{
+    background-color: blue;
+    display: flex;
+    justify-content: space-around;
+    padding:40px;
+}
+.FOOTER A{
+    color: WHITE;
+    background-color: GREEN;
+    padding: 15PX;
+    border-radius: 15PX;
+    text-decoration: none;
+}
