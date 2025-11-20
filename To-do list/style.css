@@ -1,0 +1,30 @@
+.container{
+    
+    width: 40vw;
+    margin:auto;
+    margin:50px auto;
+    text-align:center;
+    
+}
+.task
+{
+    display:flex;
+    
+    justify-content: space-around;
+    border:2px solid blue;
+}
+.checkbox{
+    
+}
+body{
+    background-color: #35454C;
+}
+h1{
+    color: white;
+    font-weight: 100;
+    font-display: block;
+}
+#inp{
+    width: 55%;
+    border-radius: 12px;
+}
